@@ -1,10 +1,11 @@
+package boletin.pkg8.pkg3;
+
+import java.util.Scanner;
+
 /*
  Cambiar todas las vocales de la frase “Tengo una hormiguita en la patita, que me esta haciendo
 cosquillitas y no me puedo aguantar” por otra vocal pedida por teclado.
  */
-package boletin.pkg8.pkg3;
-
-import java.util.Scanner;
 
 /**
  *
@@ -29,5 +30,5 @@ public class E2 {
         System.out.println();
         System.out.println(parrafo);
     }
-
+    
 }
